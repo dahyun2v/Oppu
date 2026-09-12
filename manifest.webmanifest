@@ -1,0 +1,14 @@
+{
+  "name": "오뿌 · 오늘의 향수",
+  "short_name": "오뿌",
+  "description": "매일 사용한 향수를 기록하는 개인 향수 달력",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#344b3e",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
