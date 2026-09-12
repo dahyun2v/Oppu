@@ -22,6 +22,8 @@ npm test
 
 PWA 설치에는 이 프로젝트를 **HTTPS 주소에 배포**해야 합니다. GitHub Pages, Netlify, Cloudflare Pages 등 정적 호스팅에 저장소를 연결한 뒤 발급된 HTTPS 주소를 휴대폰에서 여세요.
 
+이 저장소는 `main` 브랜치에 변경 사항이 반영되면 GitHub Pages로 자동 배포하는 워크플로를 포함합니다. 저장소의 **Settings → Pages → Build and deployment → Source**에서 **GitHub Actions**를 한 번 선택하면, 이후에는 같은 Pages 주소에서 변경 결과를 새로고침해 확인할 수 있습니다.
+
 ### iPhone / iPad
 
 1. HTTPS 주소를 **Safari**로 엽니다.
